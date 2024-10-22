@@ -10,7 +10,7 @@ We have an API service deployed on two different cloud providers (AWS and GCP) t
 There are no restrictions on tools; feel free to utilize any resources you need to address the challenges and leverage existing solutions where applicable.
 
 
-![Challenge](challenge.png =300x300)
+![Challenge](challenge.png)
 
 ---
 
