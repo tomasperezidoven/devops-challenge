@@ -20,3 +20,6 @@ There are no restrictions on tools; feel free to utilize any resources you need 
 4. How would you implement monitoring?
 5. Identify any potential gray areas that could affect functionality and propose solutions.
 6. If we want to transition to an active-active scenario, what modifications would be necessary?
+
+
+Share a link to your own repo with the proposals
