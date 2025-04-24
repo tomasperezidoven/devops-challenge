@@ -17,9 +17,8 @@ There are no restrictions on tools; feel free to utilize any resources you need 
 1. Which database would you choose?
 2. How would you manage deployments?
 3. What approach would you take for backups?
-4. How would you implement monitoring?
-5. Identify any potential gray areas that could affect functionality and propose solutions.
+4. How would you implement monitoring, what metrics would you focus on?
 6. If we want to transition to an active-active scenario, what modifications would be necessary?
-
+7. What would be the alternative to achieve a similar setup if we wanted to work with native cloud database systems in the described providers (AWS and GCP)
 
 Share a link to your own repo with the proposals
