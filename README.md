@@ -21,4 +21,9 @@ There are no restrictions on tools; feel free to utilize any resources you need 
 6. If we want to transition to an active-active scenario, what modifications would be necessary?
 7. What would be the alternative to achieve a similar setup if we wanted to work with native cloud database systems in the described providers (AWS and GCP)
 
-Share a link to your own repo with the proposals
+**How to send the solution**
+
+We just need a document, in any format of your choice (e.g. PDF, email, markdown) sent to us,
+where you describe and justify the different points discussed.
+
+Don't dedicate more than 1-2h.
